@@ -337,8 +337,8 @@ Start of how to install
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
-	background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0979 0%, #ff6a00 100%) repeat scroll 0 0;
-	background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0979 0%, #ff6a00 100%) repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) -webkit-linear-gradient(#009900,#0000FF,#686868) repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) linear-gradient(#009900, #0000FF, #686868) repeat scroll 0 0;
 }
 .how-to-install .section-content {
 	padding-bottom: 150px;
@@ -758,8 +758,9 @@ Start of home-2 banner
 	padding-bottom: 290px;
 	overflow: visible;
 	padding-top: 340px;
-	background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0979 0%, #ff6a00 100%) repeat scroll 0 0;
-	background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0979 0%, #ff6a00 100%) repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) -webkit-linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);;
+	background: rgba(0, 0, 0, 0) linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);;
+
 }
 .banner-area-head h1 {
 	font-size: 2.5em;
