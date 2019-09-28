@@ -865,9 +865,9 @@ Start of home-2 banner
   padding-bottom: 290px;
   overflow: visible;
   padding-top: 340px;
-  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #a0d528);
+  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #81ad1d);
   background: rgba(0, 0, 0, 0)
-    linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #a0d528);
+    linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #81ad1d);
 }
 .banner-area-head h1 {
   font-size: 2.5em;
