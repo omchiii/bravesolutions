@@ -120,16 +120,7 @@ h6 {
   padding: 100px 0px;
 }
 .orange-gred {
-  background: -moz-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -webkit-gradient(
-    left top,
-    right top,
-    color-stop(0%, #ee0979),
-    color-stop(100%, #ff6a00)
-  );
-  background: -webkit-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -o-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -ms-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
+  background: #008793;
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -138,8 +129,9 @@ h6 {
   color: #040404;
 }
 .pink {
-  color: #f11965;
+  color: #008793;
 }
+
 
 @-webkit-keyframes video-icon {
   0% {
@@ -304,9 +296,9 @@ Start of features section
   border-radius: 100%;
   overflow: hidden;
   position: relative;
-  -webkit-box-shadow: 0px 5px 30px -9px rgba(238, 9, 121, 0.75);
-  -moz-box-shadow: 0px 5px 30px -9px rgba(238, 9, 121, 0.75);
-  box-shadow: 0px 5px 30px -9px rgba(238, 9, 121, 0.75);
+  -webkit-box-shadow: 0px 5px 30px -9px rgba(50,205,50, 0.75);
+  -moz-box-shadow: 0px 5px 30px -9px rgba(50,205,50, 0.75);
+  box-shadow: 0px 5px 30px -9px rgba(50,205,50, 0.75);
 }
 .features-icon:after,
 .extra-features-section .extra-left .features-icon:after,
@@ -326,13 +318,9 @@ Start of features section
 .features-icon:after,
 .extra-features-section .extra-left .features-icon:after,
 .extra-features-section .extra-right .features-icon:after {
-  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(
-      left,
-      #ee0979 0%,
-      #ff6a00 100%
-    ) repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
   background: rgba(0, 0, 0, 0)
-    linear-gradient(to right, #ee0979 0%, #ff6a00 100%) repeat scroll 0 0;
+    linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
 }
 .features-text-dec {
   max-width: 350px;
@@ -440,13 +428,8 @@ Start of how to install
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(
-      #009900,
-      #0000ff,
-      #686868
-    ) repeat scroll 0 0;
-  background: rgba(0, 0, 0, 0) linear-gradient(#009900, #0000ff, #686868) repeat
-    scroll 0 0;
+  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0) linear-gradient(to right top, #051937, #004d7a, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
 }
 .how-to-install .section-content {
   padding-bottom: 150px;
@@ -479,16 +462,16 @@ Start of how to install
   display: block;
   width: 80px;
   height: 80px;
-  background: -moz-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
+  background: -moz-linear-gradient(left, #004d7a 0%, #008793 100%);
   background: -webkit-gradient(
     left top,
     right top,
-    color-stop(0%, #ee0979),
+    color-stop(0%, #004d7a),
     color-stop(100%, #ff6a00)
   );
-  background: -webkit-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -o-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -ms-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
+  background: -webkit-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: -o-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: -ms-linear-gradient(left, #004d7a 0%, #008793 100%);
   border-radius: 50%;
   -webkit-animation: video-icon 1500ms ease-out infinite;
   animation: video-icon 1500ms ease-out infinite;
@@ -506,16 +489,16 @@ Start of showcase section
 .showcase-slider .owl-dot {
   height: 15px;
   width: 15px;
-  background: -moz-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
+  background: -moz-linear-gradient(left, #004d7a, #008793);
   background: -webkit-gradient(
     left top,
     right top,
     color-stop(0%, #ee0979),
     color-stop(100%, #ff6a00)
   );
-  background: -webkit-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -o-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -ms-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
+  background: -webkit-linear-gradient(left, #004d7a, #008793);
+  background: -o-linear-gradient(left, #004d7a, #008793);
+  background: -ms-linear-gradient(left, #004d7a, #008793);
   border-radius: 100%;
   display: inline-block;
   margin-right: 10px;
@@ -779,16 +762,16 @@ Start of contact section
 }
 .submit-btn button {
   border: none;
-  background: -moz-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
+  background: -moz-linear-gradient(left, #004d7a 0%, #008793 100%);
   background: -webkit-gradient(
     left top,
     right top,
-    color-stop(0%, #ee0979),
-    color-stop(100%, #ff6a00)
+    color-stop(0%, #004d7a),
+    color-stop(100%, #008793)
   );
-  background: -webkit-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -o-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -ms-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
+  background: -webkit-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: -o-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: -ms-linear-gradient(left, #004d7a 0%, #008793 100%);
   color: #fff;
 }
 /*----------------------------------------------------------------------- 
