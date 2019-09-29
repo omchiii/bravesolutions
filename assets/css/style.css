@@ -536,7 +536,7 @@ Start of showcase section
 }
 .showcase-slider .owl-prev,
 .showcase-slider .owl-next span {
-  color: #ee0979;
+  color: #004d7a;
 }
 .showcase-slider .owl-prev {
   left: -40px;
@@ -546,16 +546,16 @@ Start of showcase section
 }
 .showcase-slider .owl-prev:hover,
 .showcase-slider .owl-next:hover {
-  background: -moz-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
+  background: -moz-linear-gradient(left, #004d7a 0%, #008793 100%);
   background: -webkit-gradient(
     left top,
     right top,
     color-stop(0%, #ee0979),
     color-stop(100%, #ff6a00)
   );
-  background: -webkit-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -o-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -ms-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
+  background: -webkit-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: -o-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: -ms-linear-gradient(left, #004d7a 0%, #008793 100%);
 }
 .showcase-slider .owl-prev:hover span,
 .showcase-slider .owl-next:hover span {
@@ -669,10 +669,10 @@ Start of pricing plan
     color-stop(0%, #ee0979),
     color-stop(100%, #ff6a00)
   );
-  background: -webkit-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -o-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  background: -ms-linear-gradient(left, #ee0979 0%, #ff6a00 100%);
-  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#00c9fd', endColorstr='#81ee8e', GradientType=1);
+  background: -webkit-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: -o-linear-gradient(left, #004d7a 0%, #008793 100%);
+  background: -ms-linear-gradient(left, #004d7a 0%, #008793 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#004d7a', endColorstr='#008793', GradientType=1);
   -webkit-transition: 0.3s;
   transition: 0.3s;
   border-radius: 35px;
