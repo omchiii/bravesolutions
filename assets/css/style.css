@@ -296,9 +296,9 @@ Start of features section
   border-radius: 100%;
   overflow: hidden;
   position: relative;
-  -webkit-box-shadow: 0px 5px 30px -9px rgba(50,205,50, 0.75);
-  -moz-box-shadow: 0px 5px 30px -9px rgba(50,205,50, 0.75);
-  box-shadow: 0px 5px 30px -9px rgba(50,205,50, 0.75);
+  -webkit-box-shadow: 0px 5px 30px -9px #008793;
+  -moz-box-shadow: 0px 5px 30px -9px #008793;
+  box-shadow: 0px 5px 30px -9px #008793;
 }
 .features-icon:after,
 .extra-features-section .extra-left .features-icon:after,
