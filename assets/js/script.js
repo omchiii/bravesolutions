@@ -4,7 +4,7 @@
 File:           JS Core
 Version:        1.0
 Last change:    00/00/00 
-Author:         Suelo
+Author:         Omer Bayram
 
 -------------------------------------------------------------------------------- */
 (function() {
@@ -149,7 +149,45 @@ showcaseSlide: function (){
 
 			}
 		},
-	})
+	});
+
+	$('.showcase-slider2').owlCarousel({
+		margin:15,
+		responsiveClass:true,
+		pagination: true,
+		nav: false,
+		navText: [ '<span class="ti-angle-left"></span>' ,
+		'<span class="ti-angle-right"></span>'],
+		autoplay: false,
+		smartSpeed: 1000,
+		responsive:{
+			0:{
+				items:1,
+				pagination: true,
+			},
+			400:{
+				items:2,
+				pagination: true,
+			},
+			500:{
+				items:2,
+				pagination: true,
+			},
+			600:{
+				items:2,
+				pagination: true,
+			},
+			700:{
+				items:3,
+				pagination: true,
+			},
+			1000:{
+				items:5,
+				pagination: true,
+
+			}
+		},
+	});
 },
 /* - End of showcase slide
 ================================================*/
