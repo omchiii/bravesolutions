@@ -90,7 +90,7 @@ a.navbar-brand {
   background-color: #ffffff;
 }
 .main-menu .navbar-default .navbar-toggle:focus {
-  background-color: #f11965;
+  background-color: #004d7a;
 }
 .main-menu .navbar-default .navbar-toggle .icon-bar {
   background-color: #4e93e6;
@@ -177,8 +177,8 @@ a.navbar-brand {
     float: none;
     color: #737d8b;
     border-top: 1px solid #ACAEB2;
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #ee0979 0%, #ff6a00 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ee0979 0%, #ff6a00 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #004d7a, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #004d7a, #008793, #00aa72, #81ad1d) repeat scroll 0 0;
   }
   #main-nav li:first-child {
     border: none;
