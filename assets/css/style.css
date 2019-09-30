@@ -1206,3 +1206,9 @@ er-select: none;
   padding: 50px 0px;
  background-color: #f7f7f9;
 }
+
+
+.navbar-brand h2  {
+font-family: 'Gruppo';
+font-size: 0.9em;
+}
