@@ -29,7 +29,10 @@ a.navbar-brand {
   color: #fff;
 }
 .navbar-default .navbar-brand span { 
-  color: #4e93e6;
+  color: #fff;
+font-family: 'Lexend Mega', sans-serif;
+letter-spacing: -2px;
+line-height: 1;
 }
 
 .main-menu .navbar-default .navbar-nav>li>a {

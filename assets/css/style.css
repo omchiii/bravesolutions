@@ -1210,5 +1210,6 @@ er-select: none;
 
 .navbar-brand h2  {
 font-family: 'Gruppo';
-
+line-height: 1.0;
 }
+
