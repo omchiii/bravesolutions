@@ -30,8 +30,9 @@ a.navbar-brand {
 }
 .navbar-default .navbar-brand span { 
   color: #fff;
-font-family: 'Lexend Mega', sans-serif;
+font-family: 'Montserrat Subrayada', sans-serif;
 text-align: center;
+font-size: 32px;
 }
 
 .main-menu .navbar-default .navbar-nav>li>a {
