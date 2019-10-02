@@ -1209,7 +1209,10 @@ er-select: none;
 
 
 .navbar-brand h2  {
-font-family: 'Gruppo';
-line-height: 1.0;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-weight: 100;
+  line-height: 1;
+  letter-spacing: 0.5px;
 }
 

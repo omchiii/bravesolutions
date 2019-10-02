@@ -31,8 +31,7 @@ a.navbar-brand {
 .navbar-default .navbar-brand span { 
   color: #fff;
 font-family: 'Lexend Mega', sans-serif;
-letter-spacing: -2px;
-line-height: 1;
+text-align: center;
 }
 
 .main-menu .navbar-default .navbar-nav>li>a {

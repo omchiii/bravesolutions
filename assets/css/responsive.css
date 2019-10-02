@@ -83,19 +83,10 @@ Author:        HTMLmate
 @media screen and (min-width: 991px) { 
 
 .navbar-brand {
-	margin-top: 8px;
+	margin-top: -6px;
 }
 
 }
-
-@media only screen and (min-width: 991px) and (max-width: 1199px)  {
- 
-.logoname {
-	font-size: 25px;
-}
-
-}
-
 
 
 @media screen and (max-width: 767px) { 
