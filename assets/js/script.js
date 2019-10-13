@@ -114,7 +114,7 @@ videoPopup: function (){
 ================================================*/
 showcaseSlide: function (){
 	$('.showcase-slider').owlCarousel({
-		margin:15,
+		margin:50 ,
 		responsiveClass:true,
 		pagination: true,
 		nav: true,
@@ -140,14 +140,10 @@ showcaseSlide: function (){
 				pagination: true,
 			},
 			700:{
-				items:3,
+				items:2,
 				pagination: true,
 			},
-			1000:{
-				items:4,
-				pagination: true,
 
-			}
 		},
 	});
 

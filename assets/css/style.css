@@ -432,7 +432,7 @@ Start of how to install
   background: rgba(0, 0, 0, 0) linear-gradient(to right top, #051937, #004d7a, #008793, #008793, #81ad1d) repeat scroll 0 0;
 }
 .how-to-install .section-content {
-  padding-bottom: 150px;
+  text-align: center;
 }
 .title-install h2 {
   font-size: 52px;
