@@ -32,6 +32,7 @@ Author:        HTMLmate
 		padding-top: 230px;
 	}
 	.banner-mock-up.home-1 img {
+		margin-top: -30px;
 		width: 70%;
 		float: right;
 	}
